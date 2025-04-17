@@ -1,1 +1,2 @@
-# assginment-5-
+# assginment-5- 
+for my game i made a pixilated zombie with green skin and blue and brown clothes and the backround is a night sky with grass at the bottom i also made gravestones for the zombie to jump on. I used pixilart to make my designs and took inspiration from images online, after i made them i saved them as pngs. then i made a unity folder for my imports then when the 2d game was downloaded i imported them in and placed the objects and player where i wanted. i faced lots of challenges especially when designing because i was having trouble thinking of what to make because all of my friends were doing the ideas i wanted and i didnt want it to look like i was cheating. i also needed help from karma to import my asset into unity. 
